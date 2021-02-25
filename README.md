@@ -10,15 +10,17 @@ Also, a listed repository should be deprecated if:
 
 Further resources:
 
-* For a list of operations research and optimization books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
+* For a list of operations research and optimization books available for download, go [here](https://github.com/SirMore/Awesome-Operations-Research/blob/main/books.md).
 
-* For a list of professional machine learning events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/events.md).
+* For a list of operations research and optimization events, go [here](https://github.com/SirMore/Awesome-Operations-Research/blob/main/events.md).
 
-* For a list of (mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md).
+* For a list of (mostly) free operations research and optimization courses available online, go [here](https://github.com/SirMore/Awesome-Operations-Research/blob/main/courses.md).
 
-* For a list of blogs and newsletters on data science and machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
+* For a list of blogs and newsletters on operations research and optimization, go [here](https://github.com/SirMore/Awesome-Operations-Research/blob/main/blogs.md).
 
-* For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
+* For a list of free-to-attend meetups and local events, go [here](https://github.com/SirMore/Awesome-Operations-Research/blob/main/meetups.md).
+
+* For a list of possible OR curriculum fro9m recognized institutions, go [here](https://github.com/SirMore/Awesome-Operations-Research/blob/main/or-curriculum.md).
 
 ## Table of Contents
 
