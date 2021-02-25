@@ -1,6 +1,12 @@
 
 The following is a list of free and/or open source books on operations research, machine learning, statistics, data mining, etc.
 
+## Operations Research 
+
+### Convex Optimization
+
+* 
+
 
 ## Machine Learning / Data Mining
 
