@@ -8,5 +8,19 @@ Also, a listed repository should be deprecated if:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for a long time (2~3 years).
 
-# Awesome-Operations-Research
-A curated list of awesome operations research  frameworks, libraries and software (by language). Inspired by `awesome-php`.
+Further resources:
+
+* For a list of operations research and optimization books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
+
+* For a list of professional machine learning events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/events.md).
+
+* For a list of (mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md).
+
+* For a list of blogs and newsletters on data science and machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
+
+* For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
+
+## Table of Contents
+
+### Frameworks and Libraries
+<!-- MarkdownTOC depth=4 -->
