@@ -20,7 +20,9 @@ Further resources:
 
 * For a list of free-to-attend meetups and local events, go [here](https://github.com/SirMore/Awesome-Operations-Research/blob/main/meetups.md).
 
-* For a list of possible OR curriculum fro9m recognized institutions, go [here](https://github.com/SirMore/Awesome-Operations-Research/blob/main/or-curriculum.md).
+* For a list of possible OR curriculum from recognized institutions, go [here](https://github.com/SirMore/Awesome-Operations-Research/blob/main/or-curriculum.md).
+
+* For a list of optimization softwares, go [here](https://github.com/SirMore/Awesome-Operations-Research/blob/main/softwares.md).
 
 ## Table of Contents
 
