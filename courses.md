@@ -2,4 +2,4 @@ The following is a list of free or paid online courses on operations research, s
 
 ## Operations Research
 
-*[https://www.edx.org/course/convex-optimization](https://www.edx.org/course/convex-optimization) - On Edx
+* [Convex Optimization](https://www.edx.org/course/convex-optimization) - On Edx
