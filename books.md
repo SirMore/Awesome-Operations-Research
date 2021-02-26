@@ -51,6 +51,8 @@ The following is a list of free and/or open source books on operations research,
 * [Integer and Combinatorial Optimization](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118627372) - G. Nemhauser, and L. Wolsey. Wiley, 1988.
 * [Integer programming](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669) L. Wolsey. , John Wiley & Sons Canada, 1998
 * [Integer Programming](https://link.springer.com/book/10.1007%2F978-3-319-11008-0) M. Conforti, G. Cornuéjols, G. Zambelli.  GTM 271, Springer, 2014.
+* [Decomposition Techniques in Mathematical Programming](https://www.springer.com/gp/book/9783540276852) Conejo, A.J., Castillo, E., Minguez, R., Garcia-Bertrand, R.
+* 
 
 
 ### Convex Optimization:
@@ -59,7 +61,7 @@ The following is a list of free and/or open source books on operations research,
 * [Proximal Algorithms](https://web.stanford.edu/~boyd/papers/pdf/prox_algs.pdf) now Foundations and Trends in Optimization, 2013. [Errata](https://web.stanford.edu/~boyd/papers/prox_algs/errata.pdf). Mostly algorithms, a few examples N. Parikh and S. Boyd.
 * [An Introduction to Matrix Concentration Inequalities](https://arxiv.org/pdf/1501.01571.pdf), now Foundations and Trends in Optimization, 2014. Goes beyond Ben-Tal and Nemirovski in such areas as operator convexity and matrix (quantum) relative entropy - J. Tropp
 * [Chordal Graphs and Semidefinite Optimization](http://www.seas.ucla.edu/~vandenbe/publications/chordalsdp.pdf), now Foundations and Trends in Optimization, 2015. Advanced material in Semidefinite Optimization (Programming), i.e., SDP. - L. Vandenberghe and M. Andersen. 
-* 
+* [Lectures on Modern Convex Optimization](https://www2.isye.gatech.edu/~nemirovs/lmco_run.pdf)  A. Ben-Tal, A. Nemirovski
 
 
 
@@ -86,7 +88,7 @@ The following is a list of free and/or open source books on operations research,
 
 
 ### Robust Optimization:
-* [Robust optimization](https://press.princeton.edu/titles/9099.html). Princeton University Press, 2009. A. Ben-Tal, L. El Ghaoui, and A. Nemirovski. 
+* [Robust optimization](https://press.princeton.edu/titles/9099.html) and [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyb2J1c3RvcHRpbWl6YXRpb258Z3g6N2NkNmUwZWZhMTliYjlhMw). Princeton University Press, 2009. A. Ben-Tal, L. El Ghaoui, and A. Nemirovski. 
 * [Robust Discrete Optimization and Its Applications](https://www.springer.com/gp/book/9780792342915). Springer, 1997. P. Kouvelis, and G. Yu. 
 
 
