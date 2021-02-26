@@ -99,6 +99,39 @@ The following is a list of free and/or open source books on operations research,
 ### Vehicle Routing Problems
 * [Vehicle Routing: Problems, Methods, and Applications](https://epubs.siam.org/doi/book/10.1137/1.9781611973594), Second Edition SIAM, 2014. Paolo Toth and Daniele Vigo 
 
+## Probability & Statistics
+
+* [Think Stats](https://www.greenteapress.com/thinkstats/) - Book + Python Code
+* [From Algorithms to Z-Scores](http://heather.cs.ucdavis.edu/probstatbook) - Book
+* [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf) - Book (Not Finished)
+* [Introduction to statistical thought](https://people.math.umass.edu/~lavine/Book/book.pdf)
+* [Basic Probability Theory](https://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf)
+* [Introduction to probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - By Dartmouth College
+* [Probability & Statistics Cookbook](http://statistics.zone/)
+* [Introduction to Probability](http://athenasc.com/probbook.html) -  Book and course by MIT
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/) - Book
+* [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/) - Book
+* [Introduction to Probability and Statistics Using R](http://ipsur.r-forge.r-project.org/book/download/IPSUR.pdf) - Book
+* [Advanced R Programming](http://adv-r.had.co.nz) - Book
+* [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Book
+* [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - Book
+* [The R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Book
+* [Probability Theory: The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf) - By Jaynes
+
+## Linear Algebra
+
+* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+* [Linear Algebra by Shilov](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
+* [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
+* [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+* [Applied Numerical Computing](https://www.seas.ucla.edu/~vandenbe/ee133a.html)
+
+## Calculus
+
+* [Calculus Made Easy](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
+* [calculus by ron larson](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
+
 
 
 ## Machine Learning / Data Mining
