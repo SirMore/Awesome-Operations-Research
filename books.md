@@ -50,6 +50,9 @@ The following is a list of free and/or open source books on operations research,
 * [Theory of Linear and Integer Programming](https://www.wiley.com/en-us/Theory+of+Linear+and+Integer+Programming-p-9780471982326) Alexander Schrijver
 * [Understanding and Using Linear Programming](https://www.springer.com/gp/book/9783540306979) Matousek, Jiri, Gärtner, Bernd
 * [Linear Optimization and Extensions: Theory and Algorithms](https://www.amazon.com/Linear-Optimization-Extensions-Theory-Algorithms/dp/0139152652) Shu-Cherng Fang, Sarat Puthenpura 
+* [Linear Programming with MATLAB](https://www.amazon.com/dp/0898716438)
+* [Linear Programming: Methods and Applications](https://www.amazon.com/dp/048643284X)
+* [Linear Programming: An Introduction to Finite Improvement Algorithms](https://www.amazon.com/Linear-Programming-Introduction-Improvement-Mathematics/dp/0486493768) Book by Daniel Solow
 * 
 * 
 
@@ -97,6 +100,7 @@ The following is a list of free and/or open source books on operations research,
 ### Combinatorial Optimization:
 * [Combinatorial Optimization - Polyhedra and Efficiency](https://www.springer.com/gp/book/9783540443896). A. Schrijver. Springer, 2003
 * [Combinatorial Optimization: Algorithms and Complexity](https://www.amazon.com/dp/0486402584) by Papadimitriou and Steiglitz.
+* [Combinatorial Optimization](https://www.amazon.com/dp/047155894X) by Cook, Cunningham, Pulleyblank, Schrijver
 * 
 
 
