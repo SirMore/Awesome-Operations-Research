@@ -8,6 +8,8 @@ The following is a list of free and/or open source books on operations research,
 * [Operations Research: Applications and Algorithms](https://itslearningakarmazyan.files.wordpress.com/2015/09/operation-research-aplications-and-algorithms.pdf) by Wayne L. Winston
 * [Introduction to Operations Research](https://www.amazon.com/dp/0073017795)  by Frederick S. Hillier, Gerald J. Lieberman, Frederick Hillier, Gerald Lieberman.
 * [Applied Mathematical Programming](http://web.mit.edu/15.053/www/AMP.htm) - Stephen P. Bradley, Arnoldo C. Hax, and Thomas L. Magnanti
+* [Schaum's Outline of Operations Research](https://www.google.com/books/edition/Schaum_s_Outline_of_Operations_Research/16sK1voVookC?hl=en&gbpv=1&printsec=frontcover)
+* 
 
 
 
@@ -41,6 +43,15 @@ The following is a list of free and/or open source books on operations research,
 * [Introduction to Linear Optimization](http://www.athenasc.com/linoptbook.html) [D. Bertsimas](https://www.mit.edu/~dbertsim/books.html) and J. N. Tsitsiklis. 
 * [Linear Programming and Extensions](https://www.rand.org/content/dam/rand/pubs/reports/2007/R366part1.pdf) - G.B. Dantzig. Reprinted in 1998 by Princeton Press.
 * [Linear Programming 1: Introduction](https://www.springer.com/gp/book/9780387948331) - G.B. Dantzig and M.N. Thapa, Springer, 1997 and [Linear Programming 2: Theory and Extension](https://www.springer.com/gp/book/9780387986135), Spinger, 2003. Linear Programming 2, especially, is hard-core. I think these books supersede and render G.B. Dantzig "Linear Programming and Extensions" to be of historical interest only.
+* [Linear Programming and Network Flows](http://cs.yazd.ac.ir/hasheminezhad/Bazaraa-LP[430912].pdf) Hanif D. Sherali, John J. Jarvis, and M. S. Bazaraa
+* [Linear Programming Foundations and Extensions](https://vanderbei.princeton.edu/LPbook/) Vanderbei, Robert J.
+* [Deterministic Operations Research: Models and Methods in Linear Optimization](https://www.wiley.com/en-us/Deterministic+Operations+Research%3A+Models+and+Methods+in+Linear+Optimization-p-9780470484517) Book by David J. Rader
+* [A First Course in Linear Optimization](https://github.com/jon77lee/JLee_LinearOptimizationBook/blob/master/JLee.3.0.pdf) Jon Lee
+* [Theory of Linear and Integer Programming](https://www.wiley.com/en-us/Theory+of+Linear+and+Integer+Programming-p-9780471982326) Alexander Schrijver
+* [Understanding and Using Linear Programming](https://www.springer.com/gp/book/9783540306979) Matousek, Jiri, Gärtner, Bernd
+* [Linear Optimization and Extensions: Theory and Algorithms](https://www.amazon.com/Linear-Optimization-Extensions-Theory-Algorithms/dp/0139152652) Shu-Cherng Fang, Sarat Puthenpura 
+* 
+* 
 
 
 ### Integer Programming:
@@ -52,6 +63,7 @@ The following is a list of free and/or open source books on operations research,
 * [Integer programming](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669) L. Wolsey. , John Wiley & Sons Canada, 1998
 * [Integer Programming](https://link.springer.com/book/10.1007%2F978-3-319-11008-0) M. Conforti, G. Cornuéjols, G. Zambelli.  GTM 271, Springer, 2014.
 * [Decomposition Techniques in Mathematical Programming](https://www.springer.com/gp/book/9783540276852) Conejo, A.J., Castillo, E., Minguez, R., Garcia-Bertrand, R.
+* [Theory of Linear and Integer Programming](https://www.wiley.com/en-us/Theory+of+Linear+and+Integer+Programming-p-9780471982326) Alexander Schrijver
 * 
 
 
@@ -69,7 +81,13 @@ The following is a list of free and/or open source books on operations research,
 
 * [Numerical Optimization](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf). Springer, 2006. - J. Nocedal, S. Wright. 
 * [Introduction to nonlinear optimization: Theory, algorithms, and applications with MATLAB](https://epubs.siam.org/doi/book/10.1137/1.9781611973655?mobileUi=0) - A. Beck. SIAM, 2014
+* [Linear and Nonlinear Programming](https://eng.uok.ac.ir/mfathi/Courses/Advanced%20Eng%20Math/Linear%20and%20Nonlinear%20Programming.pdf) by David Luenberger and Yinyu Ye 
+* [Linear Programming and Generalizations: A Problem-based Introduction with Spreadsheets](https://www.springer.com/gp/book/9781441964908) Book by Eric V. Denardo
+* [Optimization for Decision Making: Linear and Nonlinear Models](http://www-personal.umich.edu/~murty/books/opti_model/) by [Katta Murty](http://www-personal.umich.edu/~murty/)
+* [Linear and Nonlinear Optimization](https://www.springer.com/gp/book/9781493970537) Book by Mukund Narain Thapa and Richard W. Cottle
 * 
+* 
+
 
 ### Geometric Programming
 * [A tutorial on geometric programming, Optimization and Engineering](https://web.stanford.edu/~boyd/papers/pdf/gp_tutorial.pdf), 2007. A tutorial journal article covering geometric programming and generalizations and extensions, starting from basics and proceeding to more advanced material. S. Boyd, Seung-Jean Kim, L. Vandenberghe, and A. Hassibi. 
@@ -78,6 +96,7 @@ The following is a list of free and/or open source books on operations research,
 
 ### Combinatorial Optimization:
 * [Combinatorial Optimization - Polyhedra and Efficiency](https://www.springer.com/gp/book/9783540443896). A. Schrijver. Springer, 2003
+* [Combinatorial Optimization: Algorithms and Complexity](https://www.amazon.com/dp/0486402584) by Papadimitriou and Steiglitz.
 * 
 
 
