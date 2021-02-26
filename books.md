@@ -4,8 +4,120 @@ The following is a list of free and/or open source books on operations research,
 ## Operations Research 
 
 ### Convex Optimization
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Stephen Boyd and Lieven Vandenberghe
+* [Applied Mathematical Programming](http://web.mit.edu/15.053/www/AMP.htm) - Stephen P. Bradley, Arnoldo C. Hax, and Thomas L. Magnanti
+* [Linear Programming -- A Concise Introduction](http://www.math.ucla.edu/~tom/LP.pdf) by Thomas S. Ferguson 
+* [Introduction to Operations Research](https://www.amazon.com/dp/0073017795)  by Frederick S. Hillier, Gerald J. Lieberman, Frederick Hillier, Gerald Lieberman.
+* [Network Flows: Theory, Algorithms, and Applications](http://cs.yazd.ac.ir/hasheminezhad/STSCS4R1.pdf) - Book by Ahuja, [Magnanti, Orlin](https://mitmgmtfaculty.mit.edu/jorlin/network-flows/)
+* [Linear Programming](https://www.amazon.com/Linear-Programming-Books-Mathematical-Sciences/dp/0716715872) by Vasek Chvatal. Other important resources [here](https://home.cs.colorado.edu/~hal/565notes.pdf)
+* [Model Building in Mathematical Programming](http://pourghaderi.com/wp-content/uploads/2018/12/Wiliams-Model-Building-in-Mathematical-Programming-5th-2013.pdf) by H. P. Williams
+* [Operations Research: Applications and Algorithms](https://itslearningakarmazyan.files.wordpress.com/2015/09/operation-research-aplications-and-algorithms.pdf) by Wayne L. Winston
+*  [50 Years of Integer Programming](https://www.springer.com/gp/book/9783540682745) by Juenger, Liebling, Naddef, Nemhauser, Pulleyblank, Reinelt, Rinaldi, Wolsey
 
-* 
+
+
+
+
+
+
+
+
+
+
+General Intro to OR:
+
+W. Winston. Operations Research: Applications and Algorithms (4th Ed.). Brooks/Cole. 2004.
+
+Modeling:
+
+H.P. Williams. Model building in mathematical programming. John Wiley & Sons, 2013.
+
+D. Chen, R.G. Batson, Y. Dang. Applied Integer Programming: Modeling and Solution. John Wiley & Sons, 2009.
+
+MOSEK Modeling Cookbook How to formulate and reformulate conic optimization problems (convex QP, SOCP, SDP, Exponential Cone, Power Cone, and mixed integer). Requires some "mathematical maturity" to understand. This is very helpful for users of CVX, CVXPY, CVXR, YALMIP. Note, this is complementary to H.P. Williams "Model building in mathematical programming", because Williams doesn't cover any conic optimization material.
+
+Graph Theory and Algorithms:
+
+R. K. Ahuja, T. L. Magnanti, and J. B. Orlin. Network flows, 1988.
+
+Linear Programming:
+
+V. Chvátal. Linear Programming. New York: W.H. Freeman, 1983.
+
+D. Bertsimas and J. N. Tsitsiklis. Introduction to Linear Optimization, Athena Scientific, 1997.
+
+G.B. Dantzig. Linear Programming and Extensions.Reprinted in 1998 by Princeton Press.
+
+G.B. Dantzig and M.N. Thapa Linear Programming 1: Introduction, Springer, 1997 and Linear Programming 2: Theory and Extension, Spinger, 2003. Linear Programming 2, especially, is hard-core. I think these books supersede and render G.B. Dantzig "Linear Programming and Extensions" to be of historical interest only.
+
+Integer Programming:
+
+D. Bertsimas and R. Weismantel. Optimization over Integers. Belmont, MA: Dynamic Ideas, 2005.
+
+G. Desaulniers, J. Desrosiers, and M. M. Solomon. Column Generation. New York: Springer, 2005.
+
+G. Nemhauser, and L. Wolsey. Integer and Combinatorial Optimization. Wiley, 1988.
+
+L. Wolsey. Integer programming, John Wiley & Sons Canada, 1998
+
+M. Conforti, G. Cornuéjols, G. Zambelli. Integer Programming, GTM 271, Springer, 2014.
+
+Convex Optimization:
+
+S. Boyd and L. Vandenberghe Convex Optimization. Cambridge University Press, 2004 (freely downloadable at provided link). Also serves as good background for non-convex optimization.
+
+A. Ben-Tal, A. Nemirovski Lectures on Modern Convex Optimization, 2013 (most recent version). Very advanced mathematically.
+
+N. Parikh and S. Boyd, Proximal Algorithms, now Foundations and Trends in Optimization, 2013. Errata. Mostly algorithms, a few examples.
+
+J. Tropp, An Introduction to Matrix Concentration Inequalities, now Foundations and Trends in Optimization, 2014. Goes beyond Ben-Tal and Nemirovski in such areas as operator convexity and matrix (quantum) relative entropy.
+
+L. Vandenberghe and M. Andersen. Chordal Graphs and Semidefinite Optimization, now Foundations and Trends in Optimization, 2015. Advanced material in Semidefinite Optimization (Programming), i.e., SDP.
+
+Nonlinear Optimization:
+
+J. Nocedal, S. Wright. Numerical Optimization. Springer, 2006.
+
+A. Beck. Introduction to nonlinear optimization: Theory, algorithms, and applications with MATLAB. SIAM, 2014.
+
+Geometric Programming
+
+S. Boyd, Seung-Jean Kim, L. Vandenberghe, and A. Hassibi. A tutorial on geometric programming, Optimization and Engineering, 2007. A tutorial journal article covering geometric programming and generalizations and extensions, starting from basics and proceeding to more advanced material.
+
+Combinatorial Optimization:
+
+A. Schrijver. Combinatorial Optimization - Polyhedra and Efficiency. Springer, 2003
+
+Stochastic Optimization:
+
+A.J. King, and S.W. Wallace. Modeling with Stochastic Programming. Springer, 2012.
+
+J.R. Birch, and F. Louveaux. Introduction to stochastic programming. Springer Science & Business Media, 2011.
+
+A. Shapiro, D.Dentcheva, and A. Ruszczyński. Lectures on Stochastic Programming: Modeling and Theory. SIAM, 2009.
+
+Robust Optimization:
+
+A. Ben-Tal, L. El Ghaoui, and A. Nemirovski. Robust optimization. Princeton University Press, 2009.
+
+P. Kouvelis, and G. Yu. Robust Discrete Optimization and Its Applications. Springer, 1997.
+
+Transportation Problems
+
+G. Peyré, M. Cuturi, Computational Optimal Transport, now Foundations and Trends in Machine Learning, 2019. Very advanced and theoretical. Shows how to formulate and calculate such things as Wasserstein distance as computational optimal transport problems. This is not an Intro to OR Transportation Problem book.
+
+Vehicle Routing Problems
+
+Paolo Toth and Daniele Vigo Vehicle Routing: Problems, Methods, and Applications, Second Edition SIAM, 2014
+
+
+
+
+
+
+
+
+
 
 
 ## Machine Learning / Data Mining
