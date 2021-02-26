@@ -9,4 +9,4 @@ The following is a list of free or paid online courses on operations research, s
 
 
 
-The ECE236B course material for the Winter 2021 Quarter is available on the CCLE course website.
+The NPTEL lecture series on operations research: nptel.ac.in/courses/112106134 has a number of examples. The solver ILOG CPLEX is shipped with a number of coding examples. You can find the corresponding mathematical model online
