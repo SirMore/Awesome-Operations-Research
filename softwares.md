@@ -92,6 +92,7 @@ See also: [Solver Comparison](solver-comparison.md), [Modeling Languages](modeli
 - [Excel Solver](https://support.microsoft.com/office/define-and-solve-a-problem-by-using-solver-5d1a388f-079d-43ac-a7eb-f63e45925040) - Built-in Microsoft Excel add-in for small optimization models.
 - [LINDO/LINGO](https://www.lindo.com/) - Commercial teaching and modeling system widely used in OR courses.
 - [OpenSolver](https://opensolver.org/) - Open-source Excel add-in for linear, integer, and nonlinear optimization models.
+- [Plain Solver](https://juantorresmi.github.io/plain-solver/) - Free browser-based modeling tool that builds LP, MIP and nonlinear models from plain-English sentences, solves them with HiGHS, and exports Excel Solver-style reports.
 - [POM-QM for Windows](https://wps.prenhall.com/bp_weiss_software_1/) - Educational software for production and operations management models.
 - [QM for Windows](https://wps.prenhall.com/bp_weiss_software_1/) - Teaching software for quantitative methods and operations management.
 - [SolverStudio](https://solverstudio.org/) - Excel add-in for building optimization models with languages such as AMPL, GAMS, PuLP, and Pyomo.
