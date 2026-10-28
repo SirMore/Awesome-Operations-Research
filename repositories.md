@@ -79,6 +79,7 @@ Curated Operations Research repositories for solvers, modeling languages, simula
 |---|---:|---|---|---|
 | [lanl-ansi/PowerModels.jl](https://github.com/lanl-ansi/PowerModels.jl) | See GitHub | Julia | Energy optimization | Julia/JuMP framework for power network optimization. |
 | [NREL/REopt_API](https://github.com/NREL/REopt_API) | See GitHub | Julia/Python | Energy planning | Renewable energy integration and distributed energy optimization API. |
+| [ramirocrc/odys](https://github.com/ramirocrc/odys) | See GitHub | Python | Energy optimization | Stochastic scheduling of an energy asset portfolio across electricity markets, built on linopy. |
 | [cvxgrp/cvxportfolio](https://github.com/cvxgrp/cvxportfolio) | See GitHub | Python | Finance | Portfolio optimization framework built around convex optimization. |
 | [google-research/google-research](https://github.com/google-research/google-research) | See GitHub | Python | Research | Contains optimization, routing, RL, and decision-making research projects. |
 | [facebookresearch/ELF](https://github.com/facebookresearch/ELF) | See GitHub | C++/Python | RL/game research | Reinforcement learning research environment relevant to sequential decision-making. |
