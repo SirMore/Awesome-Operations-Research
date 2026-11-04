@@ -66,6 +66,7 @@ Practical tutorials for learning Operations Research software, modeling patterns
 - [Gurobi Supply Chain Examples](https://gurobi.github.io/modeling-examples/) - Official Gurobi examples for logistics and supply chain models.
 - [OR-Tools Assignment and Routing Guides](https://developers.google.com/optimization) - Practical tutorials for assignment, routing, and flows.
 - [Pyomo Production Planning Examples](https://jckantor.github.io/ND-Pyomo-Cookbook/) - Production and supply chain examples in Pyomo.
+- [Newsvendor Model Worked Example](https://davidmashiah.com/notes/newsvendor-model) - The critical-ratio rule derived and worked by hand, with an expected-profit table, salvage value and the normal approximation.
 
 ## Scheduling Tutorials
 
