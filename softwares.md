@@ -93,6 +93,7 @@ See also: [Solver Comparison](solver-comparison.md), [Modeling Languages](modeli
 - [LINDO/LINGO](https://www.lindo.com/) - Commercial teaching and modeling system widely used in OR courses.
 - [OpenSolver](https://opensolver.org/) - Open-source Excel add-in for linear, integer, and nonlinear optimization models.
 - [POM-QM for Windows](https://wps.prenhall.com/bp_weiss_software_1/) - Educational software for production and operations management models.
+- [ProvenDecisions](https://proven-decisions.ai/) - Web app for optimization courses that turns a typed, LaTeX, photographed, or spoken problem into a cvxpy model, solves it with open-source solvers, and checks each answer with a dual or KKT certificate; free tier with paid plans.
 - [QM for Windows](https://wps.prenhall.com/bp_weiss_software_1/) - Teaching software for quantitative methods and operations management.
 - [SolverStudio](https://solverstudio.org/) - Excel add-in for building optimization models with languages such as AMPL, GAMS, PuLP, and Pyomo.
 
