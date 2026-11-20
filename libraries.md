@@ -91,6 +91,7 @@ See also: [Software](softwares.md), [Modeling Languages](modeling-languages.md),
 
 ## JavaScript and TypeScript
 
+- [contact-center-math](https://github.com/andrewhall07/contact-center-math) - Dependency-free TypeScript functions for Erlang B/C queueing (service level, average speed of answer, staffing with shrinkage) and call center metrics.
 - [glpk.js](https://github.com/jvail/glpk.js) - JavaScript build of GLPK for solving LP and MIP models in browser or Node.js.
 - [javascript-lp-solver](https://github.com/JWally/jsLPSolver) - JavaScript linear programming solver with integer support.
 - [jsLPSolver](https://github.com/JWally/jsLPSolver) - JavaScript LP/MILP solver package used in browser and Node workflows.
